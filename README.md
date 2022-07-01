@@ -1,2 +1,1 @@
 # ScheduleBotOpenRepository
- github razrabi uebki
