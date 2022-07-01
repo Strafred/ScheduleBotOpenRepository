@@ -1,1 +1,1 @@
-# ScheduleBotOpenRepository
+# Telegram Schedule Bot
